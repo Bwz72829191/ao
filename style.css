@@ -79,7 +79,7 @@ body header #navigationpart nav {
   left: 100vw;
   z-index: 3;
   width: var(--nav-size);
-  height: calc(var(--nav-size) * 1.71421);
+  height: calc(var(--nav-size) * 1.71422);
   border-radius: 0.5vmin;
   background: #FFFFFF;
   font-family: "Indie Flower", cursive;
